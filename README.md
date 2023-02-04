@@ -1,7 +1,7 @@
 # test_task_geodata
 Проект представляет собой web-приложение в котором по кадастровому номеру участка Вы можете увидеть его на карте OpenStreetMap
 
-<img width="500" src="screenshots/1.png">    <img width="500" src="screenshots/2.png">
+<img width="400" src="screenshots/1.png">    <img width="400" src="screenshots/2.png">
 
 ### Установка:
 * Клонируйте репозиторий, используя команду в терминале `git clone https://github.com/alexeyvershinin/test_task_geodata.git` или загрузите архив по [ссылке](https://github.com/alexeyvershinin/test_task_geodata/archive/refs/heads/master.zip)
